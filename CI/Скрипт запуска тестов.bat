@@ -1,0 +1,2 @@
+chcp 1251 >nul
+"C:\Program Files\1cv8\8.3.20.1710\bin\1cv8c" /N"CI" /P"CI" /TestManager /Execute "D:\!Илья\1C_Bases\vanessa-automation\vanessa-automation.epf" /IBConnectionString "File=""D:\!Илья\1C_Bases\Курс по VA\Test IRP"";" /C"StartFeaturePlayer;QuietInstallVanessaExt;VAParams=D:\!Илья\GitHub\StudyQA\VAParams\VAParamsCI.json"
